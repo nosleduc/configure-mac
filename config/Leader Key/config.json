@@ -1,0 +1,120 @@
+{
+  "actions" : [
+    {
+      "key" : "x",
+      "label" : "Xcode",
+      "type" : "application",
+      "value" : "/Applications/Xcode.app"
+    },
+    {
+      "key" : "v",
+      "label" : "Code",
+      "type" : "application",
+      "value" : "/Applications/Visual Studio Code.app"
+    },
+    {
+      "key" : "t",
+      "label" : "Terminal",
+      "type" : "application",
+      "value" : "/Applications/iTerm.app"
+    },
+    {
+      "key" : "s",
+      "label" : "Safari",
+      "type" : "application",
+      "value" : "/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app"
+    },
+    {
+      "key" : "f",
+      "label" : "Finder",
+      "type" : "application",
+      "value" : "/System/Library/CoreServices/Finder.app"
+    },
+    {
+      "key" : "o",
+      "label" : "Outlook",
+      "type" : "application",
+      "value" : "/Applications/Microsoft Outlook.app"
+    },
+    {
+      "key" : "m",
+      "label" : "Music",
+      "type" : "application",
+      "value" : "/Applications/Spotify.app"
+    },
+    {
+      "key" : "g",
+      "label" : "Chrome",
+      "type" : "application",
+      "value" : "/Applications/Google Chrome.app"
+    },
+    {
+      "key" : "e",
+      "label" : "Teams",
+      "type" : "application",
+      "value" : "/Applications/Google Chrome.app"
+    },
+    {
+      "key" : "i",
+      "label" : "Illustrator",
+      "type" : "application",
+      "value" : "/Applications/Google Chrome.app"
+    },
+    {
+      "actions" : [
+        {
+          "key" : "h",
+          "label" : "Home",
+          "type" : "folder",
+          "value" : "/Users/cglinel"
+        },
+        {
+          "key" : "d",
+          "label" : "Downloads",
+          "type" : "folder",
+          "value" : "/Users/cglinel/Downloads"
+        },
+        {
+          "key" : "f",
+          "label" : "Cloudflow",
+          "type" : "folder",
+          "value" : "/Users/cglinel/code/Cloudflow/Development"
+        },
+        {
+          "key" : "c",
+          "label" : "code",
+          "type" : "folder",
+          "value" : "/Users/cglinel/code"
+        },
+        {
+          "key" : "a",
+          "label" : "Applications",
+          "type" : "folder",
+          "value" : "/Applications"
+        }
+      ],
+      "key" : "d",
+      "label" : "Folders",
+      "type" : "group"
+    },
+    {
+      "actions" : [
+        {
+          "key" : "e",
+          "label" : "English",
+          "type" : "url",
+          "value" : "https://translate.google.fr/?hl=fr&sl=en&tl=fr&op=translate"
+        },
+        {
+          "key" : "f",
+          "label" : "French",
+          "type" : "url",
+          "value" : "https://translate.google.fr/?hl=fr&sl=fr&tl=en&op=translate"
+        }
+      ],
+      "key" : "l",
+      "type" : "group"
+    }
+  ],
+  "type" : "group"
+}
