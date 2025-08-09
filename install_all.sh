@@ -15,7 +15,7 @@ else
 fi
 
 
-./install_lazyvim_requirements.sh
+./install_lazyvim_tool.sh
 ./config/config.sh
 ./install_nerd_fonts.sh
 ./iterm2/install_iterm2.sh
